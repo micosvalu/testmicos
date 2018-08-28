@@ -82,7 +82,7 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": false,
             "bgColor": "#252525"
           },
