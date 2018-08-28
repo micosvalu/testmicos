@@ -74,6 +74,11 @@
 }
 #content4-12 .mbr-section__col .mbr-header__text {
   text-align: left;
+  color: #000000;
+  font-size: 16px;
+}
+#content4-12 P {
+  color: #7c706b;
 }
 #ext_menu-v .mbr-brand__name {
   font-size: 16px;

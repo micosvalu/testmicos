@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "reservas.html",
     "versionFirst": "2.11.1",
     "versionPublish": "4.8.1",
     "name": "Micos",
@@ -18,7 +18,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "uniqCompNum": 72,
+    "uniqCompNum": 77,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "siteUrl": "",
@@ -63,7 +63,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Teléfono de contacto</span> 920 211 463",
+          "title": "<span style=\"font-weight: normal;\">Teléfono de contacto</span> 920 221 463",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"tel:920211463\" data-toolbar=\"-mbrBtnMove\">LLAMAR</a>",
           "_tags": [
@@ -168,7 +168,7 @@
           },
           "text1": "<font color=\"#ed100d\"><b>DIRECCIÓN</b></font><br>Polígono de las Hervencias<br>Calle Río Tera 17<br>\n05004<br>Ávila",
           "text2": "<strong>CONTACTO</strong><strong><br></strong>Email: micos@micosvalu.com<br>\nTeléfono: 920 221 463<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a></p><p class=\"mbr-contacts__text\"><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-1c"
         },
         {
@@ -367,7 +367,7 @@
           },
           "text1": "<font color=\"#ed100d\"><b>DIRECCIÓN</b></font><br>Polígono de las Hervencias<br>Calle Río Tera 17<br>\n05004<br>Ávila",
           "text2": "<strong>CONTACTO</strong><strong><br></strong>Email: micos@micosvalu.com<br>\nTeléfono: 920 221 463<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a></p><p class=\"mbr-contacts__text\"><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-18"
         },
         {
@@ -551,7 +551,7 @@
           },
           "text1": "<font color=\"#ed100d\"><b>DIRECCIÓN</b></font><br>Polígono de las Hervencias<br>Calle Río Tera 17<br>\n05004<br>Ávila",
           "text2": "<strong>CONTACTO</strong><strong><br></strong>Email: micos@micosvalu.com<br>\nTeléfono: 920 221 463<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a></p><p class=\"mbr-contacts__text\"><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-z"
         },
         {
@@ -581,34 +581,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showText": false,
-            "outside": false,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nenes-1400x502.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-15"
-        },
-        {
           "_inherit": "features1",
           "_params": {
             "showHeader": false,
@@ -624,7 +596,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -763,9 +735,50 @@
           "_anchor": "content4-12",
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000",
+              "font-size": "16px"
+            },
+            "P": {
+              "color": "#7c706b"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nenes-1-1400x502.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-15"
+        },
+        {
+          "text": "",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-24"
         },
         {
           "_inherit": "menu",
@@ -863,7 +876,7 @@
           },
           "text1": "<font color=\"#ed100d\"><b>DIRECCIÓN</b></font><br>Polígono de las Hervencias<br>Calle Río Tera 17<br>\n05004<br>Ávila",
           "text2": "<strong>CONTACTO</strong><strong><br></strong>Email: micos@micosvalu.com<br>\nTeléfono: 920 221 463<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a></p><p class=\"mbr-contacts__text\"><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-w"
         },
         {
@@ -1286,7 +1299,7 @@
           },
           "text1": "<font color=\"#ed100d\"><b>DIRECCIÓN</b></font><br>Polígono de las Hervencias<br>Calle Río Tera 17<br>\n05004<br>Ávila",
           "text2": "<strong>CONTACTO</strong><strong><br></strong>Email: micos@micosvalu.com<br>\nTeléfono: 920 221 463<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a></p><p class=\"mbr-contacts__text\"><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-m"
         },
         {
@@ -1547,7 +1560,7 @@
           },
           "text1": "<font color=\"#ed100d\"><b>DIRECCIÓN</b></font><br>Polígono de las Hervencias<br>Calle Río Tera 17<br>\n05004<br>Ávila",
           "text2": "<strong>CONTACTO</strong><strong><br></strong>Email: micos@micosvalu.com<br>\nTeléfono: 920 221 463<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a></p><p class=\"mbr-contacts__text\"><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-c"
         },
         {
@@ -2199,7 +2212,7 @@
           },
           "text1": "<font color=\"#ed100d\"><b>DIRECCIÓN</b></font><br>Polígono de las Hervencias<br>Calle Río Tera 17<br>\n05004<br>Ávila",
           "text2": "<strong>CONTACTO</strong><strong><br></strong>Email: micos@micosvalu.com<br>\nTeléfono: 920 221 463<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>"
+          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#f7da64\"><b>DESCARGAS</b></font></p><p class=\"mbr-contacts__text\"><a class=\"mbr-contacts__link text-white\" href=\"https://docs.google.com/file/d/0Bx64w0GRmSeAcm92dGZoWlNJX0k/edit\" style=\"background-color: rgb(249, 115, 82);\" target=\"_blank\">Normas cumpleaños</a></p><p class=\"mbr-contacts__text\"><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>"
         },
         {
           "_name": "footer1",
